@@ -1,10 +1,9 @@
-# Wild-circus
-Page web pour une compagnie de cirque fictive
+#BookCommunity Projet collaboratif.
 
-J'aimerais devenir developpeur web
+#J'aimerais developper un site web qui permettra a toute une communaute de lecteurs de se retrouver lors de rencontre autour de #differents themes.
 
-I would like to become a software designer.
-This is my first project.
+#pour l'instant ceci est un prototype.
+#je suis encore qu'un debutant.
+#toute bonne volonte est la bienvenu.
 
-It's a design websit for unreal circus compagnie.
-
+# Peace and love guys.
